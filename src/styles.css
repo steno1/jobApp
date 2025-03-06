@@ -1,4 +1,4 @@
-/* General Styles */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 body {
@@ -8,7 +8,7 @@ body {
     background-color: #f4f8fb;
 }
 
-/* App Container */
+
 .app-container {
     text-align: center;
     margin: 20px;
@@ -27,7 +27,7 @@ body {
 h1 {
     font-size: 2.2rem;
     font-weight: bold;
-    color: #004085; /* Darker blue for better contrast */
+    color: #004085; 
     text-transform: uppercase;
     letter-spacing: 1.5px;
     margin-bottom: 20px;
@@ -36,7 +36,7 @@ h1 {
     padding-bottom: 8px;
 }
 
-/* Underline effect */
+
 h1::after {
     content: "";
     width: 60%;
@@ -49,7 +49,7 @@ h1::after {
     border-radius: 2px;
 }
 
-/* Job Card */
+
 .job-card {
     border: 2px solid #007bff;
     padding: 20px;
@@ -67,7 +67,7 @@ h1::after {
     opacity: 1;
 }
 
-/* Job Title */
+
 .job-card h2 {
     margin: 0;
     font-size: 1.5rem;
@@ -77,14 +77,14 @@ h1::after {
     -webkit-text-fill-color: transparent;
 }
 
-/* Job Details */
+
 .job-card p {
     margin: 8px 0;
     font-size: 1rem;
-    color: #222; /* Darker text for readability */
+    color: #222; 
 }
 
-/* Button */
+
 .job-card button {
     margin-top: 10px;
     padding: 8px 18px;
@@ -102,7 +102,7 @@ h1::after {
     transform: scale(1.08);
 }
 
-/* ✅ Responsive Fix */
+/* mobile responsiveness*/
 @media (max-width: 768px) {
     .job-list {
         display: grid;
