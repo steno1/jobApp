@@ -1,0 +1,13 @@
+[
+    { "id": 1, "title": "Frontend Developer", "company": "Tech Corp", "location": "Remote", "salary": "₦400,000" },
+    { "id": 2, "title": "Backend Engineer", "company": "Dev Solutions", "location": "Enugu", "salary": "₦300,000" },
+    { "id": 3, "title": "Data Scientist", "company": "AI Hub", "location": "Lagos", "salary": "₦500,000" },
+    { "id": 4, "title": "UI/UX Designer", "company": "Creative Minds", "location": "Abuja", "salary": "₦350,000" },
+    { "id": 5, "title": "DevOps Engineer", "company": "Cloud Systems", "location": "Remote", "salary": "₦600,000" },
+    { "id": 6, "title": "Cybersecurity Analyst", "company": "SecureTech", "location": "Port Harcourt", "salary": "₦450,000" },
+    { "id": 7, "title": "Product Manager", "company": "Innovate Ltd", "location": "Remote", "salary": "₦700,000" },
+    { "id": 8, "title": "System Administrator", "company": "IT Solutions", "location": "Kaduna", "salary": "₦320,000" },
+    { "id": 9, "title": "Full Stack Developer", "company": "WebGenix", "location": "Lagos", "salary": "₦550,000" },
+    { "id": 10, "title": "Machine Learning Engineer", "company": "AI Works", "location": "Remote", "salary": "₦650,000" }
+  ]
+  
