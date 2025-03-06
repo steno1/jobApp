@@ -15,7 +15,7 @@ body {
     padding: 10px;
 }
 
-/* Job Listings Container */
+
 .job-list {
     display: flex;
     flex-wrap: wrap;
@@ -23,7 +23,7 @@ body {
     justify-content: center;
 }
 
-/* Job Listings Title */
+
 h1 {
     font-size: 2.2rem;
     font-weight: bold;
