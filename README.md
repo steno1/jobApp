@@ -1,16 +1,20 @@
 📌 Job Listings App
 
 
-A beautiful, mobile-responsive job listings web application built with React and TypeScript. The UI is modern, colorful, and engaging, making job browsing an enjoyable experience. 🎨✨
+A beautiful, mobile-responsive job listings web application built with React and TypeScript. 🎨✨
 
 
 🚀 Features
 
 
 ✅ Built with React & TypeScript – Ensuring type safety and maintainability.
+
 ✅ Responsive Design – Optimized for mobile and desktop views.
+
 ✅ Beautiful UI – Uses gradients, hover effects, and animations for a modern feel.
+
 ✅ Custom Styling – Designed with CSS for a sleek and intuitive layout.
+
 ✅ Job Cards – Displays job listings with titles, descriptions, and an action button.
 
 🛠️ Technologies Used
@@ -26,23 +30,6 @@ CSS (Custom styling and animations)
 
 
 Vite or Create React App (For project setup)
-
-
-📂 Folder Structure
-
-job-listings-app/
-│── src/
-│   ├── components/
-│   │   ├── JobCard.tsx      # Job Card Component
-│   │   ├── JobList.tsx      # Job List Component
-│   │   └── App.tsx          # Main App Component
-│   ├── styles/
-│   │   └── styles.css       # CSS for styling
-│   ├── main.tsx            # Renders the React App
-│   └── index.tsx           # App entry point
-├── package.json            # Project dependencies
-├── tsconfig.json           # TypeScript configuration
-└── README.md               # Project documentation
 
 
 
