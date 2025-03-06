@@ -30,20 +30,20 @@ Vite or Create React App (For project setup)
 
 📂 Folder Structure
 
+job-listings-app/
+│── src/
+│   ├── components/
+│   │   ├── JobCard.tsx      # Job Card Component
+│   │   ├── JobList.tsx      # Job List Component
+│   │   └── App.tsx          # Main App Component
+│   ├── styles/
+│   │   └── styles.css       # CSS for styling
+│   ├── main.tsx            # Renders the React App
+│   └── index.tsx           # App entry point
+├── package.json            # Project dependencies
+├── tsconfig.json           # TypeScript configuration
+└── README.md               # Project documentation
 
-📁 job-listings-app
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 JobCard.tsx  # Job Card Component
- ┃ ┃ ┣ 📜 JobList.tsx  # Job List Component
- ┃ ┃ ┗ 📜 App.tsx      # Main App Component
- ┃ ┣ 📂 styles
- ┃ ┃ ┗ 📜 styles.css   # CSS for styling
- ┃ ┣ 📜 main.tsx       # Renders the React App
- ┃ ┗ 📜 index.tsx      # App entry point
- ┣ 📜 package.json     # Project dependencies
- ┣ 📜 tsconfig.json    # TypeScript configuration
- ┗ 📜 README.md        # Project documentation
 
 
 📦 Installation
